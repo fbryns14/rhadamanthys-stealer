@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Rhadamanthys.Core</RootNamespace>
+    <AssemblyName>Rhadamanthys.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
